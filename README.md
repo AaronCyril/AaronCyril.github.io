@@ -1,3 +1,1 @@
-[系统分析第一次作业](https://
-        AaronCyril.github.io/软件的本质与软件工程科学.md
-      )
+[系统分析第一次作业](https://github.com/AaronCyril/AaronCyril.github.io/blob/%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90/%E8%BD%AF%E4%BB%B6%E7%9A%84%E6%9C%AC%E8%B4%A8%E4%B8%8E%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E7%A7%91%E5%AD%A6.md)
