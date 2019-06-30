@@ -2,8 +2,6 @@
 
 这次项目学习到了很多关于后端的基础知识。包括进一步加深了前后端交互的认识。对于项目的运作周期也有了很深的认识。调试的过程中发现了很多错误，也在不断的尝试和改进中解决了问题。尤其需要感谢@xjkxjk1997，在后端方面给予了很多指导。
 
-# PSP 2.1 统计表
-
 # GIT统计
 
 ![](https://github.com/AaronCyril/AaronCyril.github.io/blob/%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90/2.png?raw=true)
