@@ -6,7 +6,9 @@
 
 # GIT统计
 
+![](https://github.com/AaronCyril/AaronCyril.github.io/blob/%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90/2.png?raw=true)
 ![](https://github.com/AaronCyril/AaronCyril.github.io/blob/%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90/1.png?raw=true)
+
 
 # 工作清单
 
